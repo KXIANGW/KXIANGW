@@ -1,5 +1,8 @@
-## Hi there 👋
+### When my program can run.
+<img src="README/IMG_6942.GIF" width="500"/>
 
+
+<a href="https://u8views.com/github/KXIANGW"><img src="https://u8views.com/api/v1/github/profiles/94122424/views/total-count.svg"></a>
 <!--
 **KXIANGW/KXIANGW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
